@@ -25,3 +25,17 @@
 	width: 110%;
 
 }
+
+.map-responsive{
+	  overflow:hidden;
+    position:relative;
+    height:30%;
+	padding-bottom:0%;
+}
+.map-responsive iframe{
+  height:100%;
+    width:100%;
+	 left:0;
+    top:0;
+    position:absolute;
+}
