@@ -1,0 +1,27 @@
+
+
+.border{
+	border-radius:5px;
+	background-color:darkorange;
+	color: black;
+	
+	
+}
+.jumbotron{
+	background-color:#FFDEAD;
+	}
+
+.blue{
+	background-color:lightgray;
+}
+.pad{
+	padding-bottom:2px;
+	padding-left:10px;
+
+	}
+.sidebar{
+	background-color:#FFDEAD;
+	height:143%;
+	width: 110%;
+
+}
